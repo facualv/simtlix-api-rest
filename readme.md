@@ -6,7 +6,8 @@ API desarrollada para el Practico 2 del taller de Node.js y GraphQL
 
 - Node.js
 - Express.js
-- GIT para control de versiones
+- Lodash
+- Morgan
 - Postman para testeo de endpoints
 
 ## Verbos HTTP
