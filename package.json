@@ -4,7 +4,7 @@
   "description": "Trabajo Practico 2 para Simtlix",
   "main": "index.js",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "lodash": "^4.17.15",
     "morgan": "^1.10.0"
   },
