@@ -1,4 +1,4 @@
-# API-REST para operaciones CRUD de Autores y Libros (CURSO SIMTLIX INCLUIT)
+# API-REST para operaciones CRUD de Autores y Libros (CURSO EMPRESA SIMTLIX INCLUIT)
 
 API desarrollada para el Practico 2 del taller de Node.js y GraphQL
 
